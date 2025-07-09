@@ -1,8 +1,7 @@
 'use client';
-
-import LoginCard from '@/components/LoginCard';
-
 // This line is added to force update
+// This line is added to force update
+import LoginCard from '@/components/LoginCard';
 
 export default function LoginPage() {
   return (
