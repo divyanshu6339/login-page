@@ -23,20 +23,20 @@ An interactive login page with gradient borders, hover expansion, and a smooth U
 
 1. Clone this repo:
 
-git clone https://github.com/divyanshu6339/login-page
+    git clone https://github.com/divyanshu6339/login-page
 cd login-page
 
 2. Install dependencies:
 
-npm install
+    npm install
 
 3. Run the development server:
 
-npm run dev
+    npm run dev
 
 4. Open your browser and visit:
 
-http://localhost:3000/login
+    http://localhost:3000/login
 
 🧑‍💻 Author
 Divyanshu Joshi
