@@ -21,31 +21,22 @@ An interactive login page with gradient borders, hover expansion, and a smooth U
 
 ---
 
-Clone this repo:
-```bash
+1. Clone this repo:
+
 git clone https://github.com/divyanshu6339/login-page
 cd login-page
-Install dependencies:
 
-bash
-Copy
-Edit
+2. Install dependencies:
+
 npm install
-Run the app locally:
 
-bash
-Copy
-Edit
+3. Run the development server:
+
 npm run dev
-Open your browser at:
 
-bash
-Copy
-Edit
+4. Open your browser and visit:
+
 http://localhost:3000/login
-🌐 Deployment
-You can deploy this using Vercel with one click.
-
 
 🧑‍💻 Author
 Divyanshu Joshi
