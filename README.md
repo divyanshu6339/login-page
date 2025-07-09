@@ -21,9 +21,7 @@ An interactive login page with gradient borders, hover expansion, and a smooth U
 
 ---
 
-## 🧪 Getting Started
-
-1. Clone this repo:
+Clone this repo:
 ```bash
 git clone https://github.com/divyanshu6339/login-page
 cd login-page
